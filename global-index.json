@@ -3,4 +3,3 @@
     {"name":"st2","team":["k8s-admins","m787025"],"cpu_limit":"1","memory_limit":"2Gi","env":"prod"}
 
 ]}
-
