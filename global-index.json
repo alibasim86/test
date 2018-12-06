@@ -1,5 +1,5 @@
 {"namespaces":[
     {"name":"st","team":["k8s-admins"],"cpu_limit":"1","memory_limit":"2Gi","env":"test"},
-    {"name":"st2","team":["k8s-admins","m787025"],"cpu_limit":"1","memory_limit":"2Gi","env":"prod","labels":["name":"acesses","value":"yes","name":"test","value":"correct"]}
+    {"name":"st2","team":["k8s-admins","m787025"],"cpu_limit":"1","memory_limit":"2Gi","env":"prod","labels":[{"name":"acesses","value":"yes"},{"name":"test","value":"correct"}]}
 
 ]}
